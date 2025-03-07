@@ -1,4 +1,4 @@
-## Hi therem I'm Nelson 👋
+## Hi there, I'm Nelson 👋
 
 [LinkedIn]() || [Portfolio]() 
 
