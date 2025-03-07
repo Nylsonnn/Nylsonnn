@@ -6,10 +6,7 @@ Full-stack developer with a deep background in physics (MPhys), passionate and d
 
 ## Languages & Frameworks
 
-### Frontend
-- ReactJS
-- HTML/CSS
-- Bootstrap
+- **Frontend** &rarr; ReactJS &bull; HTML/CSS &bull; Bootstrap
 
 ### Backend
 - Python
