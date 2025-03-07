@@ -8,20 +8,23 @@ Full-stack developer with a deep background in physics (MPhys), passionate and d
 
 - **Frontend** &rarr; ReactJS &bull; HTML/CSS &bull; Bootstrap
 
-### Backend
-- Python
-- C#
-- Django
+- **Backend** &rarr; Python &bull; C# &bull; Django
 
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
+- **Databases** &rarr; MySQL &bull; PostgreSQL &bull; MongoDB
 
-### Desktop
-- Python
-- Electron
-- Tkinter
+- **Desktop** &rarr; Python &bull; Electron &bull; Tkinter
+
+## Cloud Hosting & Tech
+
+- **Cloud Hosting** &rarr; Heroku &bull; Google Cloud &bull; Azure
+
+- **Self Hosting** &rarr; Linux &bull; DNS &bull; Nginx
+
+- **Dev** &rarr; Git &bull; Gitbash &bull; Github pages &bull; Jekyll
+
+- 
+
+- 
  
     
 <!--
