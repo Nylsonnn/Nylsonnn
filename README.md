@@ -1,5 +1,32 @@
-## Hi there 👋
+## Hi therem I'm Nelson 👋
 
+[LinkedIn]() || [Portfolio]() 
+
+Full-stack developer with a deep background in physics (MPhys), passionate and driven to create impactful solutions through code.
+
+## Languages & Frameworks
+
+### Frontend
+- ReactJS
+- HTML/CSS
+- Bootstrap
+
+### Backend
+- Python
+- C#
+- Django
+
+### Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### Desktop
+- Python
+- Electron
+- Tkinter
+ 
+    
 <!--
 **Nylsonnn/Nylsonnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
