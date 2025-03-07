@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nelson</h1>
+<h1 align="center">Hi, I'm Nelson👋</h1>
 <h3 align="center">Full-stack developer with a deep background in physics (MPhys), passionate about bridging the gap between technology and scientific applications. With a strong foundation in problem-solving and analytical thinking, I create innovative, impactful solutions through code. Currently, I am working on a project involving drone image analysis, where I utilize my coding skills to process and interpret geospatial data. By applying image processing techniques, machine learning algorithms, and data visualization tools, I'm enhancing the way drone-captured imagery can be used for various real-world applications, such as mapping, surveying, and environmental monitoring. Driven by curiosity and a commitment to excellence, I continuously strive to develop solutions that make a tangible impact on both tech and science</h3>
 
 <h3 align="left">Connect with me:</h3> 
