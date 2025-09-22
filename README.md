@@ -6,16 +6,16 @@ Full-stack developer with a deep background in physics (MPhys), passionate about
 
 ## Tech Stack
 
-**Frontend:** ReactJS, HTML/CSS, jQuery, Bootstrap  
-**Backend:** NodeJS, Django, Express, Flask  
-**Databases:** MySQL, SQLite, MongoDB, Firebase  
-**Desktop:** Python, Pygame, Tkinter, Electron, JavaFX  
+**Frontend →** ReactJS, HTML/CSS, jQuery, Bootstrap  
+**Backend →** NodeJS, Django, Express, Flask  
+**Databases →** MySQL, SQLite, MongoDB, Firebase  
+**Desktop →** Python, Pygame, Tkinter, Electron, JavaFX  
 
-**Self-Hosting:** Linux, Nginx  
-**Cloud:** Azure, AWS  
-**Containers:** Docker, Docker Compose  
+**Self-Hosting →** Linux, Nginx  
+**Cloud →** Azure, AWS  
+**Containers →** Docker, Docker Compose  
 
-**Languages & Tools:** GitHub, Python, C#, C++, JavaScript (some)
+**Languages & Tools →** GitHub, Python, C#, C++, JavaScript (some)
 
 ---
 
