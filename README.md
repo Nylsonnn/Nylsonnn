@@ -19,10 +19,13 @@ Full-stack developer with a deep background in physics (MPhys), passionate about
 
 ---
 
-## Connect with me
-[LinkedIn](#)
+<h3 align="left">Connect with me:</h3> 
+<a href="https://www.linkedin.com/in/nelsonrebelo210502/" target="_blank">LinkedIn</a>
+<p align="left">
+</p>
 
----
-
-### Portfolio  
-[![Portfolio](https://nylsonnn.github.io)](#)
+<p align="center">
+  <a href="https://nylsonnn.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
+  </a>
+</p>
