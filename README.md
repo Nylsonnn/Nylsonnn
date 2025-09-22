@@ -24,6 +24,7 @@ Full-stack developer with a deep background in physics (MPhys), passionate about
 <p align="left">
 </p>
 
+<h3 align="center">Check my portfolio!:</h3> 
 <p align="center">
   <a href="https://nylsonnn.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio"/>
